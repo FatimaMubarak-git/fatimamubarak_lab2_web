@@ -1,0 +1,2 @@
+ssh link : git@github.com:FatimaMubarak-git/fatimamubarak_lab2_web.git
+https link : https://github.com/FatimaMubarak-git/fatimamubarak_lab2_web.git
